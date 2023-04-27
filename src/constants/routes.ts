@@ -1,0 +1,8 @@
+enum SCREENS {
+    AUTH = "AUTH",
+    LOGIN = "LOGIN",
+    REGISTER = "REGISTER",
+    CARD_MANAGEMENT = "CARD_MANAGEMENT"
+}
+
+export { SCREENS }
